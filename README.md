@@ -1,7 +1,7 @@
 # DataPeel
 
-Shows the metadata hidden in every picture in a folder, marks the parts that
-can identify you, and wipes all of it on one click.
+DataPeel shows the metadata hidden in every picture in a folder, marks the
+parts that can identify you, and wipes all of it in one click.
 
 ![Four photographs on open, 56 entries marked in red as able to identify you](images/before-wipe.png)
 
